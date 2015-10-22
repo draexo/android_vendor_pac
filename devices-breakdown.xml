@@ -43,7 +43,8 @@
         <device FullName="Vivid" CodeName="holiday"/>
     </vendor>
     <vendor Name="LG">
-        <device FullName="G-Pad" CodeName="v500"/>
+        <device FullName="G-Pad 8.3 WIFI" CodeName="v500"/>
+        <device FullName="G-Pad 7 LTE" CodeName="v410"/>
         <device FullName="Nexus 4" CodeName="mako"/>
         <device FullName="Nexus 5" CodeName="hammerhead"/>
         <device FullName="Optimus G (AT&amp;T)" CodeName="e970"/>
