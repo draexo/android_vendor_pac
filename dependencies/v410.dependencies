@@ -1,0 +1,20 @@
+[
+    {
+        "remote":       "ss",
+        "repository":   "android_device_lge_v410",
+        "target_path":  "device/lge/v410",
+        "revision":     "pac-5.1"
+    },
+    {
+        "remote":       "ss",
+        "repository":   "android_kernel_lge_v410",
+        "target_path":  "kernel/lge/v410",
+        "revision":     "pac-5.1"
+    },
+    {
+        "remote":       "pic",
+        "repository":   "proprietary_vendor_lge",
+        "target_path":  "vendor/lge",
+        "revision":     "cm-12.1"
+    }
+]
